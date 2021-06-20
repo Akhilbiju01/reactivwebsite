@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c776cca7ca57c7a9dd0403d05c737e5b",
+    "revision": "c30214f1480ef5fb69cf2244a490e56a",
     "url": "/reactivwebsite/index.html"
   },
   {
-    "revision": "79f584faef92e3e857d7",
+    "revision": "edeb64777099c5a38061",
     "url": "/reactivwebsite/static/css/main.cb5eefb9.chunk.css"
   },
   {
-    "revision": "1f756e7828f95d4c4a69",
-    "url": "/reactivwebsite/static/js/2.32a66302.chunk.js"
+    "revision": "da938cad76dc33db5011",
+    "url": "/reactivwebsite/static/js/2.3c6228bd.chunk.js"
   },
   {
-    "revision": "79f584faef92e3e857d7",
-    "url": "/reactivwebsite/static/js/main.1212c520.chunk.js"
+    "revision": "edeb64777099c5a38061",
+    "url": "/reactivwebsite/static/js/main.471836ce.chunk.js"
   },
   {
     "revision": "6b011a55fa9915969cf7",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d2285965fe34b05465047401b8595dd0",
     "url": "/reactivwebsite/static/media/SimpleLineIcons.d2285965.ttf"
-  },
-  {
-    "revision": "1f09edbc706352e8dc43f0f2cd44b333",
-    "url": "/reactivwebsite/static/media/blog-blue-network.1f09edbc.png"
   },
   {
     "revision": "f36638c2135b71e5a623dca52b611173",
